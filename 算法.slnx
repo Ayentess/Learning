@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="算法/算法.vcxproj" Id="998ff372-43d9-4357-892a-3192c7f8863a" />
+</Solution>
