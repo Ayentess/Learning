@@ -1,7 +1,10 @@
-﻿  浮点数算法.cpp
-D:\vs2022Project\算法\算法\浮点数算法.cpp(104,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\vs2022Project\算法\算法\浮点数算法.cpp(136,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\vs2022Project\算法\算法\浮点数算法.cpp(137,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\vs2022Project\算法\算法\浮点数算法.cpp(143,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\vs2022Project\算法\算法\浮点数算法.cpp(152,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  算法.vcxproj -> D:\vs2022Project\算法\x64\Debug\算法.exe
+﻿  归并排序.cpp
+  快排.cpp
+  整数二分.cpp
+  浮点二分.cpp
+  浮点数算法.cpp
+D:\vs2022Project\Learning\算法\浮点数算法.cpp(198,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs2022Project\Learning\算法\浮点数算法.cpp(202,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  LINK : 没有找到 D:\vs2022Project\Learning\x64\Debug\算法.exe 或上一个增量链接没有生成它；正在执行完全链接
+  算法.vcxproj -> D:\vs2022Project\Learning\x64\Debug\算法.exe

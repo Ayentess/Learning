@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="前缀和.cpp" />
     <ClCompile Include="归并排序.cpp" />
     <ClCompile Include="快排.cpp" />
     <ClCompile Include="整数二分.cpp" />
