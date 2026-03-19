@@ -33,5 +33,17 @@
     <ClCompile Include="前缀和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="差分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="位运算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="离散化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

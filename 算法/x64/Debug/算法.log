@@ -1,10 +1,13 @@
-﻿  归并排序.cpp
+﻿  位运算.cpp
+D:\vs2022Project\Learning\算法\位运算.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  前缀和.cpp
+  双指针.cpp
+D:\vs2022Project\Learning\算法\双指针.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  差分.cpp
+  归并排序.cpp
   快排.cpp
   整数二分.cpp
   浮点二分.cpp
   浮点数算法.cpp
-D:\vs2022Project\Learning\算法\浮点数算法.cpp(198,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\vs2022Project\Learning\算法\浮点数算法.cpp(202,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   正在生成代码...
-  LINK : 没有找到 D:\vs2022Project\Learning\x64\Debug\算法.exe 或上一个增量链接没有生成它；正在执行完全链接
   算法.vcxproj -> D:\vs2022Project\Learning\x64\Debug\算法.exe

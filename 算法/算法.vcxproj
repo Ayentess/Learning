@@ -127,12 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="位运算.cpp" />
     <ClCompile Include="前缀和.cpp" />
+    <ClCompile Include="双指针.cpp" />
+    <ClCompile Include="差分.cpp" />
     <ClCompile Include="归并排序.cpp" />
     <ClCompile Include="快排.cpp" />
     <ClCompile Include="整数二分.cpp" />
     <ClCompile Include="浮点二分.cpp" />
     <ClCompile Include="浮点数算法.cpp" />
+    <ClCompile Include="离散化.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
