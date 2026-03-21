@@ -45,5 +45,8 @@
     <ClCompile Include="离散化.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="区间合并.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

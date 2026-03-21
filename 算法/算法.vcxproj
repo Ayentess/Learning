@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="位运算.cpp" />
     <ClCompile Include="前缀和.cpp" />
+    <ClCompile Include="区间合并.cpp" />
     <ClCompile Include="双指针.cpp" />
     <ClCompile Include="差分.cpp" />
     <ClCompile Include="归并排序.cpp" />
