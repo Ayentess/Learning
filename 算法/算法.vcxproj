@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="kmp.cpp" />
     <ClCompile Include="位运算.cpp" />
     <ClCompile Include="前缀和.cpp" />
     <ClCompile Include="区间合并.cpp" />

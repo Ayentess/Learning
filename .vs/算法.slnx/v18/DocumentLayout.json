@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\vs2022Project\\Learning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{998FF372-43D9-4357-892A-3192C7F8863A}|\u7B97\u6CD5\\\u7B97\u6CD5.vcxproj|D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\kmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{998FF372-43D9-4357-892A-3192C7F8863A}|\u7B97\u6CD5\\\u7B97\u6CD5.vcxproj|solutionrelative:\u7B97\u6CD5\\kmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{998FF372-43D9-4357-892A-3192C7F8863A}|\u7B97\u6CD5\\\u7B97\u6CD5.vcxproj|D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u533A\u95F4\u5408\u5E76.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{998FF372-43D9-4357-892A-3192C7F8863A}|\u7B97\u6CD5\\\u7B97\u6CD5.vcxproj|solutionrelative:\u7B97\u6CD5\\\u533A\u95F4\u5408\u5E76.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -67,19 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "kmp.cpp",
+              "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\kmp.cpp",
+              "RelativeDocumentMoniker": "\u7B97\u6CD5\\kmp.cpp",
+              "ToolTip": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\kmp.cpp",
+              "RelativeToolTip": "\u7B97\u6CD5\\kmp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-09T12:28:02.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\u533A\u95F4\u5408\u5E76.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u533A\u95F4\u5408\u5E76.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u533A\u95F4\u5408\u5E76.cpp",
               "ToolTip": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u533A\u95F4\u5408\u5E76.cpp",
               "RelativeToolTip": "\u7B97\u6CD5\\\u533A\u95F4\u5408\u5E76.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwBwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-21T01:33:55.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "\u79BB\u6563\u5316.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u79BB\u6563\u5316.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u79BB\u6563\u5316.cpp",
@@ -87,12 +104,11 @@
               "RelativeToolTip": "\u7B97\u6CD5\\\u79BB\u6563\u5316.cpp",
               "ViewState": "AgIAADMAAAAAAAAAAAAYwEAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-19T11:40:03.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T11:40:03.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "\u53CC\u6307\u9488.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u53CC\u6307\u9488.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u53CC\u6307\u9488.cpp",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "\u4F4D\u8FD0\u7B97.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u4F4D\u8FD0\u7B97.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u4F4D\u8FD0\u7B97.cpp",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "\u5DEE\u5206.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u5DEE\u5206.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u5DEE\u5206.cpp",
@@ -128,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "\u524D\u7F00\u548C.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u524D\u7F00\u548C.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u524D\u7F00\u548C.cpp",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "\u6D6E\u70B9\u6570\u7B97\u6CD5.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u6D6E\u70B9\u6570\u7B97\u6CD5.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u6D6E\u70B9\u6570\u7B97\u6CD5.cpp",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "\u6D6E\u70B9\u4E8C\u5206.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u6D6E\u70B9\u4E8C\u5206.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u6D6E\u70B9\u4E8C\u5206.cpp",
@@ -164,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "\u5FEB\u6392.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u5FEB\u6392.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u5FEB\u6392.cpp",
@@ -176,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "\u6574\u6570\u4E8C\u5206.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u6574\u6570\u4E8C\u5206.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u6574\u6570\u4E8C\u5206.cpp",
@@ -188,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "\u5F52\u5E76\u6392\u5E8F.cpp",
               "DocumentMoniker": "D:\\vs2022Project\\Learning\\\u7B97\u6CD5\\\u5F52\u5E76\u6392\u5E8F.cpp",
               "RelativeDocumentMoniker": "\u7B97\u6CD5\\\u5F52\u5E76\u6392\u5E8F.cpp",
